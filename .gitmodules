@@ -1,3 +1,7 @@
 [submodule "libOTe"]
 	path = libOTe
 	url = https://github.com/lzjluzijie/libOTe.git
+[submodule "BP24"]
+	path = BP24
+	url = https://github.com/lzjluzijie/sihangpu-fuzzy_PSI.git
+	branch = halulu
